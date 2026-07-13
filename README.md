@@ -1,8 +1,13 @@
 Team Notes App
 
-A simple app for sharing team notes.
+#A simple app for sharing team notes.
 
-Setup
+#Setup
 
-Usage
-Launch the app using the start button
+#Usage
+
+#Launch the app using the start button
+
+
+#Contributing
+Fork the repo and submit a pull request.
