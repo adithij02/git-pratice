@@ -17,3 +17,5 @@ Be respectful to all the contributors.
 
 # License
 MIT License
+
+## FAQ
